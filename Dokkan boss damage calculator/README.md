@@ -1,11 +1,17 @@
-# Coisas em python
+# Calculadora de dano dos bosses (aproximado)
 
-Minhas coisas aleatórias usando python.
+Calcula quanto de dano você aproximadamente levaria ao tomar um super attack no jogo Dragon Ball Z Dokkan Battle.
 
-## Coisas simples
+## Como usar
 
-É meio óbvio mas nessa pasta tem projetos aleatórios muito simples e bestas q vão estar meio bagunçados, mas que eu me diverti fazendo.
+Literalmente 0 segredos, simplesmente escolhe qual boss você tá enfrentando, quanto de defesa o card tem, e alguns outros fatores na batalha
 
-## Projetos
+## Updates
 
-Óbvio de novo.. aí vão alguns projetos que eu já pensei mais em fazer (vai levar 15 mil anos pra atualizar)
+Irei tentar atualizar isso regularmente com bosses novos
+
+Bosses disponíveis: 
+
+Broly (Red zone)
+Omega shenron (Red zone)
+Cell max (Fearsome activation cell max)
