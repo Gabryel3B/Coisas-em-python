@@ -9,3 +9,5 @@ Minhas coisas aleatórias usando python.
 ## Projetos
 
 Óbvio de novo.. aí vão alguns projetos que eu já pensei mais em fazer (vai levar 15 mil anos pra atualizar)
+
+(haverão READMEs em cada pasta de projeto)
