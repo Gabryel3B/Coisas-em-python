@@ -1,6 +1,6 @@
 # Coisas em python
 
-Meus projetos aleatórios usando python.
+Minhas coisas aleatórias usando python.
 
 ## Coisas simples
 
