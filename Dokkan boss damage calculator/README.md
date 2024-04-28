@@ -13,5 +13,7 @@ Irei tentar atualizar isso regularmente com bosses novos
 Bosses disponíveis: 
 
 Broly (Red zone)
+
 Omega shenron (Red zone)
+
 Cell max (Fearsome activation cell max)
