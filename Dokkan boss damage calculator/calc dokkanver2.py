@@ -4,6 +4,12 @@ dbsbrolyaoe_super = 840000
 dbsbrolyfp_super = 1200000
 omegarzstr = 952000
 omegarznuke = 1575000
+mcc_super = 1956500
+intfz_super = 1250000
+phyfz_super = 2275000
+teqfz_super = 2100000
+intsstrunks = 1740000
+physstrunks = 2345000
 def selecsitu():
     print("Em qual situação seu personagem está?")
     print("1- Desvantagem de cor, Mesma classe")
@@ -17,11 +23,17 @@ print("Calculador de defesa do Dokkan (aproximado)\n")
 
 while True:
     print("Escolha seu boss:\n")
-    print("1- Cell Max (Evento)")
-    print("2- Broly DBS (Red Zone) (Fase AOE)")
-    print("3- Broly DBS (Red Zone) (Fase final)")
-    print("4- Omega Shenron (Red Zone) (Fase STR)")
-    print("5- Omega Shenron (Red Zone) (Fase final)")
+    print("1- Cell Max TEQ (Fearsome activation cell max)")
+    print("2- Broly DBS (Red Zone Movie bosses) (Fase AOE)")
+    print("3- Broly DBS (Red Zone Movie bosses) (Fase final)")
+    print("4- Omega Shenron (Red Zone GT bosses) (Fase STR)")
+    print("5- Omega Shenron (Red Zone GT bosses) (Fase final)")
+    print("6- Metal Cooler Core (Red Zone Wicked bloodline)")
+    print("7- Zamasu fusão INT (Red Zone Dismal future)")
+    print("8- Zamasu fusão PHY (Red Zone Dismal future)")
+    print("9- Zamasu fusão TEQ (Divine Wrath and Mortal Will)")
+    print("10- Trunks SSJ (Futuro) INT (Divine Wrath and Mortal Will)")
+    print("11- Trunks SSJ (Futuro) PHY (Divine Wrath and Mortal Will)")
 
     choice = int(input("Escolha o boss: "))
 
@@ -44,6 +56,30 @@ while True:
     elif choice == 5:
         danoboss = danoboss + omegarznuke
         print("\nOmega Shenron (Red Zone) INT\n\nDano do Super Attack: 1.575.000\n")
+
+    elif choice == 6:
+        danoboss = danoboss + mcc_super
+        print("\nMetal Cooler Core (Red Zone) PHY\n\nDano do Super Attack: 1.505.000 (aumenta o dano em 30%, o tornando 1.956.500)\n")
+
+    elif choice == 7:
+        danoboss = danoboss + intfz_super
+        print("\nZamasu Fusão (Red Zone) INT\n\nDano do Super Attack: 1.250.000\n")
+
+    elif choice == 8:
+        danoboss = danoboss + phyfz_super
+        print("\nZamasu Fusão (Red Zone) PHY\n\nDano do Super Attack: 1.750.000 (aumenta o dano em 30%, o tornando 2.275.000)\n")
+
+    elif choice == 9:
+        danoboss = danoboss + teqfz_super
+        print("\nZamasu Fusão TEQ\n\nDano do Super Attack: 2.100.000\n")
+
+    elif choice == 10:
+        danoboss = danoboss + teqfz_super
+        print("\nTrunks SSJ (Futuro) INT\n\nDano do Super Attack: 1.740.000\n")
+
+    elif choice == 11:
+        danoboss = danoboss + teqfz_super
+        print("\nTrunks SSJ (Futuro) PHY\n\nDano do Super Attack: 2.345.000\n")
 
     desvmesm = danoboss * 1.25
     desvdiff = danoboss * 1.5
