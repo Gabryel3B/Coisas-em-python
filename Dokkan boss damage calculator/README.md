@@ -8,12 +8,6 @@ Literalmente 0 segredos, simplesmente escolhe qual boss você tá enfrentando, q
 
 ## Updates
 
-Irei tentar atualizar isso regularmente com bosses novos
+Irei tentar atualizar isso regularmente com bosses novos.
 
-Bosses disponíveis: 
-
-Broly (Red zone)
-
-Omega shenron (Red zone)
-
-Cell max (Fearsome activation cell max)
+No arquivo BossList estão listados todos os bosses disponíveis.
