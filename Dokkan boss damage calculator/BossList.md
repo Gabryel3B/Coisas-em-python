@@ -1,11 +1,32 @@
-# Coisas em python
+# Lista de Bosses
 
-Minhas coisas aleatórias usando python.
+As boss fights disponíveis no momento.
 
-## Coisas simples
+## Fearsome Activation Cell Max:
 
-É meio óbvio mas nessa pasta tem projetos aleatórios muito simples e bestas q vão estar meio bagunçados, mas que eu me diverti fazendo.
+- Cell Max TEQ
 
-## Projetos
+## Red Zone Movie Bosses:
 
-Óbvio de novo.. aí vão alguns projetos que eu já pensei mais em fazer (vai levar 15 mil anos pra atualizar)
+- Broly SSJ STR (Fase AOE)
+- Broly SSJ Full Power AGL
+
+## Red Zone GT Bosses:
+
+- Omega Shenron STR
+- Omega Shenron INT
+
+## Red Zone Wicked Bloodline:
+
+- Metal Cooler Core PHY
+
+## Red Zone Dismal Future:
+
+- Zamasu Fusão INT
+- Zamasu Fusão PHY
+
+## Divine Wrath and Mortal Will:
+
+- Zamasu Fusão TEQ
+- Trunks SSJ (Futuro) INT
+- Trunks SSJ (Futuro) PHY
