@@ -1,3 +1,6 @@
+import os
+import shutil
+
 cardapio = []
 contador = 0
 
@@ -16,3 +19,18 @@ print("\nSua lista foi:\n\nLista de "+c)
 for i in cardapio:
     print("- "+i)
 
+text = input("Vc gostaria de criar um arquivo txt com sua lista? (S/N): ")
+
+if text == "S":
+    if not os.path.exists("Listas"):
+        os.mkdir("Listas")
+
+    with open(c+".txt", "w") as file:
+        file.write(str(cardapio))
+
+    shutil.move(c+".txt","Listas")
+
+    print("Tudo feito! Obrigado!")
+
+else:
+    print("Ok, até a próxima!")
