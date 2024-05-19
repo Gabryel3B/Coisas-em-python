@@ -5,6 +5,7 @@ O título consegue ficar mais óbvio?
 ## Regras
 
 É um jogo da memória simples com 8 cartas, cada uma com um caractere aleatório na qual eu estava com preguiça de pensar
+
 As mesmas cartas estão nas 2 linhas, mas embaralhadas e escondidas, simplesmente escolha uma carta na primeira linha e depois na segunda.
 
 Caso você ache um par de cartas iguais, você segue jogando
